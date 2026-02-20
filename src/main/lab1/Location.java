@@ -1,3 +1,5 @@
+package main.lab1;
+
 public class Location {
     private int _column;
     private int _row;

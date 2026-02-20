@@ -1,3 +1,5 @@
+package main.lab1;
+
 public class Color {
     public enum ColorType {
         Black,

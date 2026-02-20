@@ -1,3 +1,5 @@
+package main.lab1;
+
 import java.util.*;
 
 public class Enviroment {

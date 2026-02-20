@@ -1,4 +1,4 @@
-// ap 2006 - 4 task
+package main.lab1;// ap 2006 - 4 task
 
 public class DropGame {
     private Enviroment theEnv;

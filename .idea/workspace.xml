@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="18c16263-e108-4f16-96ff-c6aa104a75a7" name="Changes" comment="lab 4">
-      <change afterPath="$PROJECT_DIR$/src/main/lab7/Lab7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/lab7/Util7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/lab8/Lab8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/lab8/Stack.java" afterDir="false" />
+    <list default="true" id="18c16263-e108-4f16-96ff-c6aa104a75a7" name="Changes" comment="lab 7 &amp; lab 8">
+      <change afterPath="$PROJECT_DIR$/src/main/lab11_12/DiningPhilosophers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/lab11_12/Lab11_12.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,13 +41,13 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Lab8">
-    <configuration name="Lab2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.lab2.Lab2" />
+  <component name="RunManager" selected="Application.Lab11_12">
+    <configuration name="Lab11_12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.lab11_12.Lab11_12" />
       <module name="JavaLerning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="main.lab2.*" />
+          <option name="PATTERN" value="main.lab11_12.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,11 +109,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Lab11_12" />
         <item itemvalue="Application.Lab8" />
         <item itemvalue="Application.Lab7" />
         <item itemvalue="Application.Lab4" />
         <item itemvalue="Application.Lab3" />
-        <item itemvalue="Application.Lab2" />
       </list>
     </recent_temporary>
   </component>
@@ -184,7 +182,14 @@
       <option name="project" value="LOCAL" />
       <updated>1771550960905</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="lab 7 &amp; lab 8">
+      <created>1771593025340</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1771593025340</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -232,6 +237,7 @@
     <MESSAGE value="fix commits" />
     <MESSAGE value="implementation of lab 3" />
     <MESSAGE value="lab 4" />
-    <option name="LAST_COMMIT_MESSAGE" value="lab 4" />
+    <MESSAGE value="lab 7 &amp; lab 8" />
+    <option name="LAST_COMMIT_MESSAGE" value="lab 7 &amp; lab 8" />
   </component>
 </project>

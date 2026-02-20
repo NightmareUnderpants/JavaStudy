@@ -4,16 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="18c16263-e108-4f16-96ff-c6aa104a75a7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Color.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/lab1/Color.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DropGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/lab1/DropGame.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Enviroment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/lab1/Enviroment.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ILocatable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/lab1/ILocatable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Location.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/lab1/Location.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Piece.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/lab1/Piece.java" afterDir="false" />
-    </list>
+    <list default="true" id="18c16263-e108-4f16-96ff-c6aa104a75a7" name="Changes" comment="add lab 1 and lab 2" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -82,7 +73,21 @@
       <option name="project" value="LOCAL" />
       <updated>1771484599916</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="add lab 1 and lab 2">
+      <created>1771546613753</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1771546613753</updated>
+    </task>
+    <task id="LOCAL-00003" summary="add lab 1 and lab 2">
+      <created>1771546636362</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1771546636362</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -98,6 +103,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add base struct" />
-    <option name="LAST_COMMIT_MESSAGE" value="add base struct" />
+    <MESSAGE value="add lab 1 and lab 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="add lab 1 and lab 2" />
   </component>
 </project>

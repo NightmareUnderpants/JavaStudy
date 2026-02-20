@@ -4,10 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="18c16263-e108-4f16-96ff-c6aa104a75a7" name="Changes" comment="lab 7 &amp; lab 8">
-      <change afterPath="$PROJECT_DIR$/src/main/lab11_12/DiningPhilosophers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/lab11_12/Lab11_12.java" afterDir="false" />
+    <list default="true" id="18c16263-e108-4f16-96ff-c6aa104a75a7" name="Changes" comment="lab 11-12">
+      <change afterPath="$PROJECT_DIR$/src/main/lab9_10/FileReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/lab9_10/FileSaver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/lab9_10/Lab9_10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/lab9_10/People.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/lab7/Util7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/lab7/Util7.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,7 +32,9 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="33toWUTOHhQXga9patDF0UkM7n0" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -41,26 +46,13 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Lab11_12">
+  <component name="RunManager" selected="Application.Lab9_10">
     <configuration name="Lab11_12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="main.lab11_12.Lab11_12" />
       <module name="JavaLerning" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="main.lab11_12.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Lab3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.lab3.Lab3" />
-      <module name="JavaLerning" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="main.lab3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,13 +99,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Lab9_10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.lab9_10.Lab9_10" />
+      <module name="JavaLerning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.lab9_10.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Lab9_10" />
         <item itemvalue="Application.Lab11_12" />
         <item itemvalue="Application.Lab8" />
         <item itemvalue="Application.Lab7" />
         <item itemvalue="Application.Lab4" />
-        <item itemvalue="Application.Lab3" />
       </list>
     </recent_temporary>
   </component>
@@ -189,7 +194,14 @@
       <option name="project" value="LOCAL" />
       <updated>1771593025340</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="lab 11-12">
+      <created>1771595330612</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1771595330612</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -238,6 +250,7 @@
     <MESSAGE value="implementation of lab 3" />
     <MESSAGE value="lab 4" />
     <MESSAGE value="lab 7 &amp; lab 8" />
-    <option name="LAST_COMMIT_MESSAGE" value="lab 7 &amp; lab 8" />
+    <MESSAGE value="lab 11-12" />
+    <option name="LAST_COMMIT_MESSAGE" value="lab 11-12" />
   </component>
 </project>

@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="18c16263-e108-4f16-96ff-c6aa104a75a7" name="Changes" comment="fix commits">
-      <change afterPath="$PROJECT_DIR$/src/main/lab3/DownloadInfo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/lab3/Lab3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/lab3/MusicDownloads.java" afterDir="false" />
+    <list default="true" id="18c16263-e108-4f16-96ff-c6aa104a75a7" name="Changes" comment="implementation of lab 3">
+      <change afterPath="$PROJECT_DIR$/src/main/lab4/Lab4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/lab4/WordPair.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/lab4/WordPairList.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,7 +42,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Lab3">
+  <component name="RunManager" selected="Application.Lab4">
     <configuration name="Lab2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="main.lab2.Lab2" />
       <module name="JavaLerning" />
@@ -69,8 +69,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Lab4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.lab4.Lab4" />
+      <module name="JavaLerning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.lab4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Lab4" />
         <item itemvalue="Application.Lab3" />
         <item itemvalue="Application.Lab2" />
       </list>
@@ -127,7 +141,14 @@
       <option name="project" value="LOCAL" />
       <updated>1771547565166</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="implementation of lab 3">
+      <created>1771549537699</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1771549537699</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -173,6 +194,7 @@
     <MESSAGE value="add lab 1 and lab 2" />
     <MESSAGE value="fix workspace" />
     <MESSAGE value="fix commits" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix commits" />
+    <MESSAGE value="implementation of lab 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="implementation of lab 3" />
   </component>
 </project>
